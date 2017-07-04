@@ -1,3 +1,3 @@
 # HW-Assignments
-Few files related to homework assigments for CSE 250A.
+Few files related to homework assignments for CSE 250A.
 
